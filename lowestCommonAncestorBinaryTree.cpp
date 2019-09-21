@@ -47,3 +47,15 @@ public:
         return NULL;
     }
 };
+
+//BETTER SOLUTION 
+//credits to: https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/932/discuss/65225/stefanpochmann
+/*
+TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+    if (!root || root == p || root == q) return root;
+    TreeNode* left = lowestCommonAncestor(root->left, p, q);
+    TreeNode* right = lowestCommonAncestor(root->right, p, q);
+    return !left ? right : !right ? left : root;
+}
+*/
+
