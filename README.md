@@ -20,10 +20,11 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 145  | Binary Tree Postorder Traversal   | [here](https://github.com/Jumaruba/LeetCode/blob/master/postOrder.cpp)   | 50.3%  | Hard  |[here](https://leetcode.com/problems/binary-tree-postorder-traversal)   |
 | 153  | Find Minimum in Rotated Sorted Array   |[here](https://github.com/Jumaruba/LeetCode/blob/master/findMinimunInSortedArray.cpp)    | 43.6%  |Medium   | [here](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  |
 | 162  | Find Peak Element  |[here](https://github.com/Jumaruba/LeetCode/blob/master/findPeakElement.cpp)    | 41.8%  | Medium  |[here](https://leetcode.com/problems/find-peak-element)   |
+| 236  |  Lowest Common Ancestor of a Binary Tree   |[here](https://github.com/Jumaruba/LeetCode/blob/master/lowestCommonAncestorBinaryTree.cpp)    | 39.6%  | Medium  |[here](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)   |
 | 278  | First Bad Version  | [here](https://github.com/Jumaruba/LeetCode/blob/master/firstBadVersion.cpp)   | 31.3%  |Easy   | [here](https://leetcode.com/problems/first-bad-version)  |
 | 367  | Valid Perfect Square  |[here](https://github.com/Jumaruba/LeetCode/blob/master/validPerfectSquare.cpp)    | 40.4%  | Easy  |[here](https://leetcode.com/problems/valid-perfect-square)   |
 | 374  | Guess Number Higher or Lower   | [here](https://github.com/Jumaruba/LeetCode/blob/master/guessNumberHigherOrLower.cpp)   | 40.4%  | Easy  | [here](https://leetcode.com/problems/guess-number-higher-or-lower)  |
 | 658  | Find K Closest Elements  |[here](https://github.com/Jumaruba/LeetCode/blob/master/findKClosestElement.cpp)    | 38.7%  |Medium   |[here](https://leetcode.com/problems/find-k-closest-elements)   |
 | 704  | Binary Search    |[here](https://github.com/Jumaruba/LeetCode/blob/master/binarySearch.cpp)    | 49.4%  | Easy  | [here](https://leetcode.com/problems/binary-search)  |
 | 744  | Find Smallest Letter Greater Than Target   |[here](https://github.com/Jumaruba/LeetCode/blob/master/findSmallestLetterGreaterThanTarget.cpp)    | 44.5%  | Easy  |[here](https://leetcode.com/problems/find-smallest-letter-greater-than-target)   |
-| 236  |  Lowest Common Ancestor of a Binary Tree   |[here](https://github.com/Jumaruba/LeetCode/blob/master/lowestCommonAncestorBinaryTree.cpp)    | 39.6%  | Medium  |[here](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)   |
+
