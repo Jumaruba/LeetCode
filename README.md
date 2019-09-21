@@ -1,8 +1,8 @@
 # LeetCode
 
+Repostory for solutions for leetcode. All solutions are made using c++.
 
-
-## List of problems done
+## List of solved problems 
 
 | __#__  | __Title__  | __Solution__  | __Acceptance__  | __Difficulty__  | __Link__  |
 |---|---|---|---|---|---|
