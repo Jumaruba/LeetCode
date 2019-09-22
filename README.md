@@ -13,6 +13,8 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 101  | Symmetric Tree |[here](https://github.com/Jumaruba/LeetCode/blob/master/symmetricTree.cpp)    | 44.4%  | Easy  |[here](https://leetcode.com/problems/symmetric-tree)   |
 | 102  | Binary Tree Level Order Traversal  |[here](https://github.com/Jumaruba/LeetCode/blob/master/levelOrder.cpp)    | 50.2%  | Medium  | [here](https://leetcode.com/problems/binary-tree-level-order-traversal)  |
 | 104  | Maximum Depth of Binary Tree  | [here](https://github.com/Jumaruba/LeetCode/blob/master/maximumDepth_bottomUp.cpp)   | 65.1%  |Easy   |[here](https://leetcode.com/problems/maximum-depth-of-binary-tree)   |
+| 105  | Construct Binary Tree from Preorder and Inorder Traversal
+  | [here](https://github.com/Jumaruba/LeetCode/blob/master/constructInorderPreoder.cpp)   | 43.2%  |Medium   |[here](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)   |
 | 112  | Path Sum  | [here](https://github.com/Jumaruba/LeetCode/blob/master/pathSum.cpp)   | 38.7%  | Easy  |[here](https://leetcode.com/problems/path-sum)   |
 | 116  | Populating Next Right Pointers in Each Node   | [here](https://github.com/Jumaruba/LeetCode/blob/master/populatingNext.cpp)   | 39.4%  | Medium  |[here](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)   |
 | 117  | Populating Next Right Pointers in Each Node II   |[here](https://github.com/Jumaruba/LeetCode/blob/master/populatingNext_II_1.cpp)    | 35.6%  | Medium  | [here](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)  |
