@@ -25,7 +25,9 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 278  | First Bad Version  | [here](https://github.com/Jumaruba/LeetCode/blob/master/firstBadVersion.cpp)   | 31.3%  |Easy   | [here](https://leetcode.com/problems/first-bad-version)  |
 | 367  | Valid Perfect Square  |[here](https://github.com/Jumaruba/LeetCode/blob/master/validPerfectSquare.cpp)    | 40.4%  | Easy  |[here](https://leetcode.com/problems/valid-perfect-square)   |
 | 374  | Guess Number Higher or Lower   | [here](https://github.com/Jumaruba/LeetCode/blob/master/guessNumberHigherOrLower.cpp)   | 40.4%  | Easy  | [here](https://leetcode.com/problems/guess-number-higher-or-lower)  |
+| 622 | Design Circular Queue  |[here](https://github.com/Jumaruba/LeetCode/blob/master/circularQueue.cpp)    | 41.0%  |Medium   |[here](https://leetcode.com/problems/design-circular-queue)   |
 | 658  | Find K Closest Elements  |[here](https://github.com/Jumaruba/LeetCode/blob/master/findKClosestElement.cpp)    | 38.7%  |Medium   |[here](https://leetcode.com/problems/find-k-closest-elements)   |
 | 704  | Binary Search    |[here](https://github.com/Jumaruba/LeetCode/blob/master/binarySearch.cpp)    | 49.4%  | Easy  | [here](https://leetcode.com/problems/binary-search)  |
 | 744  | Find Smallest Letter Greater Than Target   |[here](https://github.com/Jumaruba/LeetCode/blob/master/findSmallestLetterGreaterThanTarget.cpp)    | 44.5%  | Easy  |[here](https://leetcode.com/problems/find-smallest-letter-greater-than-target)   |
 
+https://github.com/Jumaruba/LeetCode/blob/master/circularQueue.cpp
