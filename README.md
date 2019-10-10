@@ -30,6 +30,7 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 658  | Find K Closest Elements  |[here](https://github.com/Jumaruba/LeetCode/blob/master/findKClosestElement.cpp)    | 38.7%  |Medium   |[here](https://leetcode.com/problems/find-k-closest-elements)   |
 | 704  | Binary Search    |[here](https://github.com/Jumaruba/LeetCode/blob/master/binarySearch.cpp)    | 49.4%  | Easy  | [here](https://leetcode.com/problems/binary-search)  |
 | 744  | Find Smallest Letter Greater Than Target   |[here](https://github.com/Jumaruba/LeetCode/blob/master/findSmallestLetterGreaterThanTarget.cpp)    | 44.5%  | Easy  |[here](https://leetcode.com/problems/find-smallest-letter-greater-than-target)   |
+| 1271  | Play With Chips  |[here](https://github.com/Jumaruba/LeetCode/blob/master/playWithChips.cpp)    | 62.3%  | Easy  |[here](https://leetcode.com/contest/weekly-contest-157/problems/play-with-chips/)   |
 
 
 
