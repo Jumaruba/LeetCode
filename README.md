@@ -32,7 +32,7 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 658  | Find K Closest Elements  |[here](https://github.com/Jumaruba/LeetCode/blob/master/findKClosestElement.cpp)    | 38.7%  |Medium   |[here](https://leetcode.com/problems/find-k-closest-elements)   |
 | 704  | Binary Search    |[here](https://github.com/Jumaruba/LeetCode/blob/master/binarySearch.cpp)    | 49.4%  | Easy  | [here](https://leetcode.com/problems/binary-search)  |
 | 744  | Find Smallest Letter Greater Than Target   |[here](https://github.com/Jumaruba/LeetCode/blob/master/findSmallestLetterGreaterThanTarget.cpp)    | 44.5%  | Easy  |[here](https://leetcode.com/problems/find-smallest-letter-greater-than-target)   |
-| 763 | Partition Labels | [here](https://github.com/Jumaruba/LeetCode/blob/master/partition_labels.cpp) | 73.3% | Medium | [here](https://leetcode.com/problems/partition-labels/)|
+| 763 | Partition Labels | [approach1](https://github.com/Jumaruba/LeetCode/blob/master/partition_labels_1approach.cpp), [approach2](https://github.com/Jumaruba/LeetCode/blob/master/partition_labels_2approach.cpp) | 73.3% | Medium | [here](https://leetcode.com/problems/partition-labels/)|
 | 1271  | Play With Chips  |[here](https://github.com/Jumaruba/LeetCode/blob/master/playWithChips.cpp)    | 62.3%  | Easy  |[here](https://leetcode.com/contest/weekly-contest-157/problems/play-with-chips/)   |
 |1282| Group the People Given the Group Size They Belong To |[here](https://github.com/Jumaruba/LeetCode/blob/master/groupThePeople.cpp) | 84.5% | Medium | [here](https://leetcode.com/contest/weekly-contest-166/problems/group-the-people-given-the-group-size-they-belong-to/) 
 
