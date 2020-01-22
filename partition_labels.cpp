@@ -1,5 +1,7 @@
 class Solution {
 public:
+    //time complexity O(n^2)
+    //extra space complexity: basically there is no extra space
     vector<int> partitionLabels(string s) {
         size_t size = s.size(); 
         int e = 0, b = 0; 
