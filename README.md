@@ -10,6 +10,7 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 34  | Find First and Last Position of Element in Sorted Array      | [here](https://github.com/Jumaruba/LeetCode/blob/master/firstAndLastSortedArray.cpp)   | 34.2%  | Medium  | [here](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  |
 | 53 | Maximum Subarray | [here](https://github.com/Jumaruba/LeetCode/blob/master/maximum_subarray.cpp) | 45.6% | Easy | [here](https://leetcode.com/problems/maximum-subarray/) |
 | 69  | Sqrt(x) | [here](https://github.com/Jumaruba/LeetCode/blob/master/Sqrt(x).cpp)   | 32.1%   |Easy   | [here](https://leetcode.com/problems/sqrtx)  |
+| 70 | Climbing Stairs | [here](https://github.com/Jumaruba/LeetCode/blob/master/climbing_stairs.cpp) | 46.1% | Easy | [here](https://leetcode.com/problems/climbing-stairs) |
 | 94  | Binary Tree Inorder Traversal   | [here](https://github.com/Jumaruba/LeetCode/blob/master/inOrder.cpp)   | 58.5%  | Medium  | [here](https://leetcode.com/problems/binary-tree-inorder-traversal)  |
 | 101  | Symmetric Tree |[here](https://github.com/Jumaruba/LeetCode/blob/master/symmetricTree.cpp)    | 44.4%  | Easy  |[here](https://leetcode.com/problems/symmetric-tree)   |
 | 102  | Binary Tree Level Order Traversal  |[here](https://github.com/Jumaruba/LeetCode/blob/master/levelOrder.cpp)    | 50.2%  | Medium  | [here](https://leetcode.com/problems/binary-tree-level-order-traversal)  |
