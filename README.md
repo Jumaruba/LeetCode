@@ -24,6 +24,7 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 153  | Find Minimum in Rotated Sorted Array   |[here](https://github.com/Jumaruba/LeetCode/blob/master/findMinimunInSortedArray.cpp)    | 43.6%  |Medium   | [here](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  |
 | 162  | Find Peak Element  |[here](https://github.com/Jumaruba/LeetCode/blob/master/findPeakElement.cpp)    | 41.8%  | Medium  |[here](https://leetcode.com/problems/find-peak-element)   |
 | 186  | Rever Words in a string ii | [here](https://github.com/Jumaruba/LeetCode/blob/master/reverse_string_II_aproach1.cpp) | 40.9% | Medium |[here](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|
+| 198 | House Robber | [here](https://github.com/Jumaruba/LeetCode/blob/master/house_robber.cpp) | 41.6% | Easy | [here](https://leetcode.com/problems/house-robber) |
 | 200  |  Number of Island   |[here](https://leetcode.com/problems/number-of-islands/)    | 43.0%  | Medium  | [here](https://github.com/Jumaruba/LeetCode/blob/master/numberofIsland.cpp)
 | 236  |  Lowest Common Ancestor of a Binary Tree   |[here](https://github.com/Jumaruba/LeetCode/blob/master/lowestCommonAncestorBinaryTree.cpp)    | 39.6%  | Medium  |[here](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)   |
 | 278  | First Bad Version  | [here](https://github.com/Jumaruba/LeetCode/blob/master/firstBadVersion.cpp)   | 31.3%  |Easy   | [here](https://leetcode.com/problems/first-bad-version)  |
