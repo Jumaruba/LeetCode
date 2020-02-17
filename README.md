@@ -43,6 +43,7 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 763 | Partition Labels | [approach1](https://github.com/Jumaruba/LeetCode/blob/master/partition_labels_1approach.cpp), [approach2](https://github.com/Jumaruba/LeetCode/blob/master/partition_labels_2approach.cpp) | 73.3% | Medium | [here](https://leetcode.com/problems/partition-labels/)|
 | 870 | Max Increase to Keep City Skyline | [approach1](https://github.com/Jumaruba/LeetCode/blob/master/skyline.cpp) | 82.7% | Medium | [here](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | 
 | 983 | Minimum Cost For Tickets | [here](https://github.com/Jumaruba/LeetCode/blob/master/minimum_cost_tickets.cpp) | 58.3% | Medium| [here](https://leetcode.com/problems/minimum-cost-for-tickets/) | 
+| 1227 | Airplane Seat Assignment Probability | [here](https://github.com/Jumaruba/LeetCode/blob/master/airplane_seat_assignment.cpp) | 59.1% | Medium | [here](https://leetcode.com/problems/airplane-seat-assignment-probability) |
 | 1271  | Play With Chips  |[here](https://github.com/Jumaruba/LeetCode/blob/master/playWithChips.cpp)    | 62.3%  | Easy  |[here](https://leetcode.com/contest/weekly-contest-157/problems/play-with-chips/)   |
 |1282| Group the People Given the Group Size They Belong To |[here](https://github.com/Jumaruba/LeetCode/blob/master/groupThePeople.cpp) | 84.5% | Medium | [here](https://leetcode.com/contest/weekly-contest-166/problems/group-the-people-given-the-group-size-they-belong-to/) 
 
