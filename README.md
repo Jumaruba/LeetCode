@@ -31,6 +31,7 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 236  |  Lowest Common Ancestor of a Binary Tree   |[here](https://github.com/Jumaruba/LeetCode/blob/master/lowestCommonAncestorBinaryTree.cpp)    | 39.6%  | Medium  |[here](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)   |
 | 278  | First Bad Version  | [here](https://github.com/Jumaruba/LeetCode/blob/master/firstBadVersion.cpp)   | 31.3%  |Easy   | [here](https://leetcode.com/problems/first-bad-version)  |
 | 303 | Range Sum Query | [here](https://github.com/Jumaruba/LeetCode/blob/master/range_sub_query.cpp) | 41.8% | Easy | [here](https://leetcode.com/problems/range-sum-query-immutable/) |
+| 338 | Counting Bits | [here](https://github.com/Jumaruba/LeetCode/blob/master/counting_bits.cpp) | 66.7% | Medium | [here](https://leetcode.com/problems/counting-bits) |
 | 367  | Valid Perfect Square  |[here](https://github.com/Jumaruba/LeetCode/blob/master/validPerfectSquare.cpp)    | 40.4%  | Easy  |[here](https://leetcode.com/problems/valid-perfect-square)   |
 | 374  | Guess Number Higher or Lower   | [here](https://github.com/Jumaruba/LeetCode/blob/master/guessNumberHigherOrLower.cpp)   | 40.4%  | Easy  | [here](https://leetcode.com/problems/guess-number-higher-or-lower)  |
 | 392 | Is Subsequence | [here](https://github.com/Jumaruba/LeetCode/blob/master/is_subsequence.cpp) | 47.9% | Easy | [here](https://leetcode.com/problems/is-subsequence/) |
