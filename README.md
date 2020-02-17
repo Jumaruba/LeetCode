@@ -40,7 +40,8 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 744  | Find Smallest Letter Greater Than Target   |[here](https://github.com/Jumaruba/LeetCode/blob/master/findSmallestLetterGreaterThanTarget.cpp)    | 44.5%  | Easy  |[here](https://leetcode.com/problems/find-smallest-letter-greater-than-target)   |
 | 746 | Min Cost Climbing Stairs | [here](https://github.com/Jumaruba/LeetCode/blob/master/min_cost_climbing_stairs.cpp) | 49.0% | Easy |[here](https://leetcode.com/problems/min-cost-climbing-stairs) |
 | 763 | Partition Labels | [approach1](https://github.com/Jumaruba/LeetCode/blob/master/partition_labels_1approach.cpp), [approach2](https://github.com/Jumaruba/LeetCode/blob/master/partition_labels_2approach.cpp) | 73.3% | Medium | [here](https://leetcode.com/problems/partition-labels/)|
-| 870 | Max Increase to Keep City Skyline | [approach1](https://github.com/Jumaruba/LeetCode/blob/master/skyline.cpp) | 82.7% | Medium | [Here](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | 
+| 870 | Max Increase to Keep City Skyline | [approach1](https://github.com/Jumaruba/LeetCode/blob/master/skyline.cpp) | 82.7% | Medium | [here](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | 
+| 983 | Minimum Cost For Tickets | [here](https://github.com/Jumaruba/LeetCode/blob/master/minimum_cost_tickets.cpp) | 58.3% | Medium| [here](https://leetcode.com/problems/minimum-cost-for-tickets/) | 
 | 1271  | Play With Chips  |[here](https://github.com/Jumaruba/LeetCode/blob/master/playWithChips.cpp)    | 62.3%  | Easy  |[here](https://leetcode.com/contest/weekly-contest-157/problems/play-with-chips/)   |
 |1282| Group the People Given the Group Size They Belong To |[here](https://github.com/Jumaruba/LeetCode/blob/master/groupThePeople.cpp) | 84.5% | Medium | [here](https://leetcode.com/contest/weekly-contest-166/problems/group-the-people-given-the-group-size-they-belong-to/) 
 
