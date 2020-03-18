@@ -20,6 +20,7 @@ Repostory for solutions for leetcode. All solutions are made using c++.
 | 116  | Populating Next Right Pointers in Each Node   | [here](https://github.com/Jumaruba/LeetCode/blob/master/populatingNext.cpp)   | 39.4%  | Medium  |[here](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)   |
 | 117  | Populating Next Right Pointers in Each Node II   |[here](https://github.com/Jumaruba/LeetCode/blob/master/populatingNext_II_1.cpp)    | 35.6%  | Medium  | [here](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)  |
 | 121 | Best Time to Buy and Sell Stock | [here](https://github.com/Jumaruba/LeetCode/blob/master/best_time_to_buy.cpp) | 49.3% | Easy  |[here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+|129 | Sum Root to Leaf Numbers | [here](sumRootToLeaf.cpp) | 45.7% | Medium | [here](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
 | 144  | Binary Tree Preorder Traversal   |[here](https://github.com/Jumaruba/LeetCode/blob/master/preOrder.cpp)    | 52.6%  | Medium  |[here](https://leetcode.com/problems/binary-tree-preorder-traversal)   |
 | 145  | Binary Tree Postorder Traversal   | [here](https://github.com/Jumaruba/LeetCode/blob/master/postOrder.cpp)   | 50.3%  | Hard  |[here](https://leetcode.com/problems/binary-tree-postorder-traversal)   |
 | 150  |  Evaluate Reverse Polish Notation  | [here](https://github.com/Jumaruba/LeetCode/blob/master/evaluateReversePolishNotation.cpp)   | 33.8%  | Medium  |[here](https://leetcode.com/problems/evaluate-reverse-polish-notation)   |
