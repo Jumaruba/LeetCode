@@ -33,3 +33,28 @@ public:
 };
 
 //----------------------------------------------------------------------
+
+class Solution {
+public:
+    int k_, n_; 
+    vector<vector<int>> combine(int n, int k) {
+        k_ = k; n_ = n; 
+        vector<vector<int>> ans; 
+        bc(ans, 2, {}); 
+        bc(ans, 2, {1}); 
+        
+        return ans; 
+    } 
+    
+    
+    void bc(vector<vector<int>> & ans, int cur, vector<int> temp){
+        if (temp.size() + (n_ - cur) +1 < k_) return; 
+        if (temp.size() == k_){
+            ans.push_back(temp); 
+            return ; 
+        }
+        bc(ans, cur+1, temp); 
+        temp.push_back(cur); 
+        bc(ans, cur+1, temp); 
+    }
+};
