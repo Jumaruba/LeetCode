@@ -4,26 +4,37 @@
  *     int val;
  *     TreeNode *left;
  *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    vector<vector<int>> V = {}; 
-    vector<vector<int>> pathSum(TreeNode* root, int sum) {
-        if (root == NULL) return V; 
-        vector<int> x; 
-        aux(root, 0, x, sum); 
-        return V; 
-    }
-    
-    void aux(TreeNode* root, int actualSum, vector<int> v, int sum){
-        v.push_back(root->val);         
-        actualSum+= root->val; 
-        if (root->left == NULL && root->right == NULL && actualSum == sum)
-            V.push_back(v);    
-        if (root->left != NULL) aux(root->left, actualSum, v, sum); 
-        if (root->right != NULL) aux(root->right, actualSum, v, sum); 
+    vector<vector<int>> ans; 
+    void helper(TreeNode* root, int sum, vector<int>& temp){
         
+        if (root == nullptr) return; 
+        temp.push_back(root->val);   
+        sum = sum-root->val; 
+        
+        if (sum == 0 && root->left == nullptr && root->right == nullptr){
+            ans.push_back(temp); 
+            temp.pop_back(); 
+            return ; 
+        }  
+        
+        helper(root->left, sum, temp); 
+        helper(root->right, sum, temp) ; 
+        temp.pop_back(); 
+   
+        
+        
+    }
+    vector<vector<int>> pathSum(TreeNode* root, int sum) {
+        vector<int> temp;  
+        
+        helper(root, sum, temp); 
+        return ans; 
     }
 };
