@@ -51,4 +51,38 @@ class Solution {
         return false; 
             
     }
-}
+} 
+
+/*
+ 
+An also interesting solution in python 
+
+    def countNodes(self, root: Optional[TreeNode]) -> int:
+        
+        def left_height(root):
+            if not root:
+                return 0
+            
+            return 1 + left_height(root.left)
+        
+        def right_height(root):
+            if not root:
+                return 0
+            
+            return 1 + right_height(root.right)
+        
+        def count(root):
+            if not root:
+                return 0
+            
+            left = left_height(root)
+            right = right_height(root)
+            
+            if left == right:
+                return 2**left - 1
+            else:
+                return count(root.left) + count(root.right) + 1
+            
+        return count(root)
+
+*/ 
