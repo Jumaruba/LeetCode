@@ -27,3 +27,21 @@ class Solution:
             value = _hash.get(letter, 0) 
             _hash[letter] = value + 1
         return _hash
+    
+# O(n) : using default ict
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+        h = collections.defaultdict(int)
+        for i,l in enumerate(s):
+            h[l] += 1
+            
+        for i,l in enumerate(t):
+            h[l] -= 1
+            if h[l] < 0:
+                return False
+        return True
+        
+        
+        
