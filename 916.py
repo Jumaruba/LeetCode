@@ -21,6 +21,7 @@ class Solution:
                 return False
         return True 
     
+    # To simplify this function I could have used a function called Counter, that would automatically count and store the words in a hash.
     def compileWords(self, words):
         h = collections.defaultdict(int)
         for w in words:
