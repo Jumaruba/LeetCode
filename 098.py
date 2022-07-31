@@ -26,3 +26,34 @@ class Solution:
         
         return isValidLeft and isValidRight
         
+
+        
+# Another similar code =======================================================================
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        less_than = float(inf)
+        higher_than = float(-inf)
+        
+        return self.traverseTree(root, higher_than, less_than)
+        
+    def traverseTree(self, root, higher_than, less_than):
+        if root == None:
+            return True
+        
+        if root.val <= higher_than or root.val >= less_than:
+            return False 
+        
+        
+        isLeftAcceptable = self.traverseTree(root.left, higher_than, root.val)
+        isRightAcceptable = self.traverseTree(root.right, root.val, less_than)
+        
+        return isLeftAcceptable and isRightAcceptable
+        
+        
