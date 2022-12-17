@@ -43,3 +43,45 @@ public:
         return head_; 
     }
 };
+
+
+// Another solution 
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* curr1, ListNode* curr2) { 
+        ListNode m = ListNode(-101); 
+        ListNode* prev1 = &m; 
+        prev1->next = curr1; 
+        ListNode* root =  prev1; 
+        while(curr2 != NULL){
+            if (curr1 == NULL) {
+                prev1->next = curr2; 
+                prev1 = curr2; 
+                curr2 = curr2->next; 
+            }
+            else if (curr1->val > curr2->val) {
+                ListNode* next2 = curr2->next;
+                prev1->next = curr2; 
+                curr2->next = curr1; 
+                prev1 = curr2; 
+                curr2 = next2; 
+            } else {
+                prev1 = curr1; 
+                curr1= curr1->next;
+            }
+        }
+
+        return root->next; 
+    }
+};
