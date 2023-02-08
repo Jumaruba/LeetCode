@@ -14,3 +14,24 @@ public:
         return level; 
     }
 };
+
+// Another approach
+
+class Solution {
+public:
+    int jump(vector<int>& nums) {
+        size_t SIZE = nums.size();
+        vector<int> p(SIZE, 0);
+        int e = 1; 
+
+        for (int s = 0; s < SIZE; s++){
+            while (e-s <= nums[s] && e < SIZE){
+                if (p[e] == 0) p[e] = p[s] + 1;
+                e++;
+            }
+            if (e >= SIZE) break;
+        }
+
+        return p[SIZE-1];
+    }
+};
