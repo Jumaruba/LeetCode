@@ -1,0 +1,3 @@
+- Add script to add the a code;
+    - The script should add statistics;
+    - Should create a new template with tests;
